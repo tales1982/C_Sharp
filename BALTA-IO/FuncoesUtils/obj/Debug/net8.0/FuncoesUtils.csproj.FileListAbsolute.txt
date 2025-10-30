@@ -1,0 +1,15 @@
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/bin/Debug/net8.0/FuncoesUtils
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/bin/Debug/net8.0/FuncoesUtils.deps.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/bin/Debug/net8.0/FuncoesUtils.runtimeconfig.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/bin/Debug/net8.0/FuncoesUtils.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/bin/Debug/net8.0/FuncoesUtils.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/FuncoesUtils.GeneratedMSBuildEditorConfig.editorconfig
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/FuncoesUtils.AssemblyInfoInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/FuncoesUtils.AssemblyInfo.cs
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/FuncoesUtils.csproj.CoreCompileInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/FuncoesUtils.sourcelink.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/FuncoesUtils.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/refint/FuncoesUtils.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/FuncoesUtils.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/FuncoesUtils.genruntimeconfig.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/FuncoesUtils/obj/Debug/net8.0/ref/FuncoesUtils.dll
