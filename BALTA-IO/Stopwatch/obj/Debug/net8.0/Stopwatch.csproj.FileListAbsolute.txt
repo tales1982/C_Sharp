@@ -1,0 +1,15 @@
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/Stopwatch.sourcelink.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
