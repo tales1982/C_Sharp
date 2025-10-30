@@ -25,9 +25,9 @@ namespace FuncoesUtils
             string raw = Console.ReadLine() ?? string.Empty;
 
             // Demonstração das variações de Trim
-            string soTrim       = raw.Trim();        // remove dos dois lados
-            string soTrimStart  = raw.TrimStart();   // remove só do início
-            string soTrimEnd    = raw.TrimEnd();     // remove só do final
+            string soTrim = raw.Trim();        // remove dos dois lados
+            string soTrimStart = raw.TrimStart();   // remove só do início
+            string soTrimEnd = raw.TrimEnd();     // remove só do final
 
             Console.WriteLine($"\n[Trim]       => '{soTrim}'");
             Console.WriteLine($"[TrimStart]  => '{soTrimStart}'");
@@ -63,14 +63,26 @@ namespace FuncoesUtils
                 Console.WriteLine("\nString vazia após Trim — não há último caractere.");
             }
 
-            // --- Substring: fatias da string ---
+            // --- Substring: fatias da string versao antiga---
             if (str.Length >= 3)
             {
                 string tresPrimeiras = str.Substring(0, 3);    // 3 primeiros caracteres
-                string doMeioAteFim  = str.Substring(1);       // do índice 1 até o fim
-                Console.WriteLine($"\nSubstring(0,3): {tresPrimeiras}");
-                Console.WriteLine($"Substring(1):   {doMeioAteFim}");
+                string doMeioAteFim = str.Substring(1);       // do índice 1 até o fim
+                Console.WriteLine($"\nSubstring(0,3) versao ANTIGA : {tresPrimeiras}");
+                Console.WriteLine($"Substring(1) versao ANTIGA :   {doMeioAteFim}");
             }
+
+            // --- Substring: fatias da string versao NOVA C# +8 ---
+            string texto = "TALES";
+            string inicioPenultimo = texto[..^1];//TALE
+            char ultimoTexto = texto[^1];//S
+       
+
+            Console.WriteLine($"Substring (Range Operator)(0,3) Versao NOVA {inicioPenultimo}");
+            Console.WriteLine($"Substring (Range Operator)(1) Versao NOVA {ultimoTexto}");
+
+
+
 
             // --- TryParse seguro para idade (evita exceção) ---
             Console.Write("\nDigite sua idade (número inteiro): ");
