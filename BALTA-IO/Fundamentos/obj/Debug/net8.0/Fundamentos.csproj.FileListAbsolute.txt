@@ -1,0 +1,15 @@
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/bin/Debug/net8.0/Fundamentos
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/bin/Debug/net8.0/Fundamentos.deps.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/bin/Debug/net8.0/Fundamentos.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/bin/Debug/net8.0/Fundamentos.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/Fundamentos.sourcelink.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/Fundamentos.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/refint/Fundamentos.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/Fundamentos.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/Fundamentos/obj/Debug/net8.0/ref/Fundamentos.dll
