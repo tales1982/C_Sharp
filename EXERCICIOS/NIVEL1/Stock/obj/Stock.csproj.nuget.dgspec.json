@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/talesmac/Documents/C_Sharp/BALTA-IO/Stopwatch/Stopwatch.csproj": {}
+    "/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/Stock.csproj": {}
   },
   "projects": {
-    "/Users/talesmac/Documents/C_Sharp/BALTA-IO/Stopwatch/Stopwatch.csproj": {
+    "/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/Stock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/talesmac/Documents/C_Sharp/BALTA-IO/Stopwatch/Stopwatch.csproj",
-        "projectName": "Stopwatch",
-        "projectPath": "/Users/talesmac/Documents/C_Sharp/BALTA-IO/Stopwatch/Stopwatch.csproj",
+        "projectUniqueName": "/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/Stock.csproj",
+        "projectName": "Stock",
+        "projectPath": "/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/Stock.csproj",
         "packagesPath": "/Users/talesmac/.nuget/packages/",
-        "outputPath": "/Users/talesmac/Documents/C_Sharp/BALTA-IO/Stopwatch/obj/",
+        "outputPath": "/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/talesmac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Stopwatch")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Stock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eab86688cecb7382fc49824af04cb4118c1d41dd")]
-[assembly: System.Reflection.AssemblyProductAttribute("Stopwatch")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Stopwatch")]
+[assembly: System.Reflection.AssemblyProductAttribute("Stock")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Stock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

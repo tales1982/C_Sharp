@@ -1,0 +1,15 @@
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/bin/Debug/net9.0/Stock
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/bin/Debug/net9.0/Stock.deps.json
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/bin/Debug/net9.0/Stock.runtimeconfig.json
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/bin/Debug/net9.0/Stock.dll
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/bin/Debug/net9.0/Stock.pdb
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/Stock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/Stock.AssemblyInfoInputs.cache
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/Stock.AssemblyInfo.cs
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/Stock.csproj.CoreCompileInputs.cache
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/Stock.sourcelink.json
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/Stock.dll
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/refint/Stock.dll
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/Stock.pdb
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/Stock.genruntimeconfig.cache
+/Users/talesmac/Documents/C_Sharp/EXERCICIOS/NIVEL1/Stock/obj/Debug/net9.0/ref/Stock.dll
