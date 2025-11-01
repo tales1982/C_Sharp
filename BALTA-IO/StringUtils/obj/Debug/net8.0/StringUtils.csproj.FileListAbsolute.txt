@@ -1,0 +1,15 @@
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/bin/Debug/net8.0/StringUtils
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/bin/Debug/net8.0/StringUtils.deps.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/bin/Debug/net8.0/StringUtils.runtimeconfig.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/bin/Debug/net8.0/StringUtils.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/bin/Debug/net8.0/StringUtils.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/StringUtils.GeneratedMSBuildEditorConfig.editorconfig
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/StringUtils.AssemblyInfoInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/StringUtils.AssemblyInfo.cs
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/StringUtils.csproj.CoreCompileInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/StringUtils.sourcelink.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/StringUtils.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/refint/StringUtils.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/StringUtils.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/StringUtils.genruntimeconfig.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/StringUtils/obj/Debug/net8.0/ref/StringUtils.dll
