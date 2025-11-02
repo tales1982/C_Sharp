@@ -1,0 +1,15 @@
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/bin/Debug/net8.0/TextEditorV2
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/bin/Debug/net8.0/TextEditorV2.deps.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/bin/Debug/net8.0/TextEditorV2.runtimeconfig.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/bin/Debug/net8.0/TextEditorV2.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/bin/Debug/net8.0/TextEditorV2.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/TextEditorV2.GeneratedMSBuildEditorConfig.editorconfig
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/TextEditorV2.AssemblyInfoInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/TextEditorV2.AssemblyInfo.cs
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/TextEditorV2.csproj.CoreCompileInputs.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/TextEditorV2.sourcelink.json
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/TextEditorV2.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/refint/TextEditorV2.dll
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/TextEditorV2.pdb
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/TextEditorV2.genruntimeconfig.cache
+/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/Debug/net8.0/ref/TextEditorV2.dll
