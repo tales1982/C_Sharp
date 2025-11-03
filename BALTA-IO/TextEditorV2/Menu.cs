@@ -12,9 +12,16 @@ namespace TextEditorV2
             Console.Clear();
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(" =================== MENU ====================");
+            Console.WriteLine("|           1 - Criar um arquivo             |");
+            Console.WriteLine("|           2 - Ler um arquivo               |");
+            Console.WriteLine("|           3 - Sair                         |");
+            Console.WriteLine(" =============================================");
+        }
 
-            Console.WriteLine("ola teste");
-
+        public void CriarArquivo(string txt){
+            string? frase;
+            
         }
     }
 }

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/tales/.nuget/packages/": {}
+    "/Users/talesmac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/TextEditorV2.csproj",
+      "projectUniqueName": "/Users/talesmac/Documents/C_Sharp/BALTA-IO/TextEditorV2/TextEditorV2.csproj",
       "projectName": "TextEditorV2",
-      "projectPath": "/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/TextEditorV2.csproj",
-      "packagesPath": "/home/tales/.nuget/packages/",
-      "outputPath": "/home/tales/Documents/GITHUB/C_Sharp/BALTA-IO/TextEditorV2/obj/",
+      "projectPath": "/Users/talesmac/Documents/C_Sharp/BALTA-IO/TextEditorV2/TextEditorV2.csproj",
+      "packagesPath": "/Users/talesmac/.nuget/packages/",
+      "outputPath": "/Users/talesmac/Documents/C_Sharp/BALTA-IO/TextEditorV2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tales/.nuget/NuGet/NuGet.Config"
+        "/Users/talesmac/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -59,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

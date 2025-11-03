@@ -3,5 +3,4 @@ using TextEditorV2;
 
 var menu = new Menu();
 
-
 menu.Show();
